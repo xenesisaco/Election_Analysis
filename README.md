@@ -7,21 +7,21 @@ Using given data through a CSV file by utilizing python to write, read and execu
 
 ## Election-Audit Results
 
-    •	A total of 369,711 votes were casted in this local election 
+    •A total of 369,711 votes were casted in this local election 
   
-    •	A breakdown of the number of votes and the percentage of total votes for each county in the precinct:    
+    •A breakdown of the number of votes and the percentage of total votes for each county in the precinct:    
  
    ![image](https://user-images.githubusercontent.com/98041751/157142161-64e2ccc1-d25b-41be-b023-42d7b3c4e977.png)
 
 
 
-    •	The county with the largest number of votes is Denver.
+    •The county with the largest number of votes is Denver.
 
-    •	A breakdown of the number of votes and the percentage of the total votes each candidate received: 
+    •A breakdown of the number of votes and the percentage of the total votes each candidate received: 
     
    ![image](https://user-images.githubusercontent.com/98041751/157142175-88e29756-e344-454d-87d2-f08fc12b5cdd.png)
 
-     • The candidate who won the election, their vote count, and what was the percentage of the total votes:
+     •The candidate who won the election, their vote count, and what was the percentage of the total votes:
      
    ![image](https://user-images.githubusercontent.com/98041751/157142487-d9e3f768-9a2b-454a-bd85-1c5bff239699.png)
 
